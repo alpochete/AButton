@@ -16,20 +16,13 @@ A lightweight Arduino library for handling push buttons with software debouncing
 
 ## Installation
 
-### Arduino IDE
+In the Arduino IDE, open **Tools > Manage Libraries...** (or click the Library Manager icon), search for **AButton**, and click **Install**.
 
-1. Download this repository as a ZIP file.
-2. In the Arduino IDE, select **Sketch > Include Library > Add .ZIP Library...**.
-3. Select the downloaded ZIP file.
-4. Include the library in your sketch:
+Then include the library in your sketch:
 
 ```cpp
 #include <AButton.h>
 ```
-
-### Manual installation
-
-Copy the `AButton` folder into your Arduino libraries directory, then restart the Arduino IDE.
 
 ## Wiring
 
