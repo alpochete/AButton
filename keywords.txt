@@ -1,0 +1,10 @@
+AButton	KEYWORD1
+begin	KEYWORD2
+update	KEYWORD2
+click	KEYWORD2
+unclick	KEYWORD2
+doubleClick	KEYWORD2
+press	KEYWORD2
+pressed	KEYWORD2
+setDebounce	KEYWORD2
+setDoubleClickInterval	KEYWORD2
